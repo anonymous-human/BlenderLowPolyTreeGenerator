@@ -8,6 +8,10 @@ Here some examples (included in TreeExamples.py).
 ![Example 1](examples/Example1.png)
 ![Example 2](examples/Example2.png)
 
+## Demo video
+
+[![Watch the video](https://img.youtube.com/vi/u4eQOpDCuZs/maxresdefault.jpg)](https://youtu.be/u4eQOpDCuZs)
+
 ## Use
 
 The file `TreeGeneratorPython.blend` has a **Scripting External** workspace. Running the script will regenerate all example trees. **Note**: The script deletes any previously generated objects with the same name.
