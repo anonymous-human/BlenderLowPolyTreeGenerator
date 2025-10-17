@@ -10,7 +10,7 @@ Here some examples (included in TreeExamples.py).
 
 ## Demo video
 
-[![Watch the video](https://img.youtube.com/vi/u4eQOpDCuZs/maxresdefault.jpg)](https://youtu.be/u4eQOpDCuZs)
+[![Watch the video](https://img.youtube.com/vi/u4eQOpDCuZs/maxresdefault.jpg)](https://www.youtube.com/watch?v=u4eQOpDCuZs)
 
 ## Use
 
